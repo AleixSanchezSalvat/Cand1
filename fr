@@ -2,32 +2,28 @@
 <html>
 <body>
 
-<p>Estimado/a {{name}},</p>
-    
-    <p>Es un placer saludarte. Soy <strong>{{name3}}</strong>, y me complace ser tu agente y enlace con la iniciativa <em>(Antonio Gonzalez Inc.)</em>. Nos emociona tu interés en unirte a nuestra red de talentos, diseñada para conectar a profesionales con oportunidades únicas en Suiza.</p>
-    
-    <p>Permíteme resaltar los beneficios que obtendrás al unirte a nuestra red:</p>
-    
-    <ol>
-        <li><strong>Red de Contactos Amplia:</strong> Contamos con una sólida red en el mercado laboral suizo, lo que nos permite acceder a una variedad de oportunidades laborales que se ajustan perfectamente a tu perfil y aspiraciones.</li>
-        <li><strong>Soporte Personalizado:</strong> Estoy aquí para ofrecerte orientación y apoyo en cada paso del proceso de búsqueda de empleo. Desde la preparación de tu documentación hasta la preparación para entrevistas, estaré contigo en cada etapa.</li>
-        <li><strong>Asesoramiento Financiero Exclusivo:</strong> Una vez en Suiza, prepárate para recibir un asesoramiento financiero de primer nivel. Te proporcionaremos acceso a un asesor financiero privado altamente calificado, quien te brindará consejos personalizados sobre cómo administrar tus ingresos de manera estratégica. Además, tendrás la oportunidad de explorar planes de inversión emocionantes y estrategias financieras innovadoras que podrían acelerar el crecimiento de tu patrimonio y ayudarte a alcanzar tus metas financieras con mayor rapidez.</li>
-        <li><strong>Gestión Integral:</strong> Nos encargaremos de todos los trámites necesarios para facilitar tu llegada y estancia en Suiza, desde la tramitación del permiso de residencia y trabajo hasta la obtención de seguros necesarios. Estamos aquí para ocuparnos de todos los detalles administrativos.</li>
-    </ol>
-    
-    <p>Adjunto a este correo, encontrarás un documento PDF. Te pedimos que lo imprimas, lo completes a mano y luego nos lo reenvíes mediante una foto clara o escaneado. Esto nos permitirá avanzar en el proceso de manera eficiente y precisa.</p>
-    
-    <p>Con estos elementos, crearemos tu ficha de candidato, que mantendremos activa salvo indicación contraria de tu parte. Este perfil nos permitirá presentarte ante potenciales empleadores de manera efectiva, sin compartir información personal identificable hasta que expreses interés en una oferta específica.</p>
-    
-    <p>Antes de proponer tu perfil para una oportunidad, confirmaremos contigo los detalles de la oferta laboral vía WhatsApp. Tendrás 24 horas para confirmar tu interés en avanzar con el proceso.</p>
-    
-    <p>Estoy aquí para asistirte en cada paso de este emocionante camino hacia tu desarrollo profesional en Suiza. No dudes en ponerte en contacto si tienes cualquier tipo de pregunta o dudas.</p>
-    
-    <p>Estoy emocionada por la oportunidad de trabajar contigo y ayudarte a alcanzar tus metas profesionales en Suiza. Quedo a tu disposición para cualquier consulta que puedas tener.</p>
-    
-    <p>Espero con ansias comenzar este emocionante viaje juntos.</p>
-    
-    <p>Saludos cordiales,</p>
+    <p>Cher(e) {{name}},</p>
+
+    <p>C'est un plaisir de vous saluer. Je m'appelle {{name3}} et je suis votre lien direct avec l'initiative {{name2}}. Nous sommes extrêmement heureux que vous ayez montré de l'intérêt pour rejoindre notre réseau de professionnels, une plateforme conçue pour connecter des talents comme vous à des opportunités uniques sur le dynamique marché suisse, dans le secteur {{sector}}.</p>
+
+    <p>Voici les avantages que vous apprécierez en rejoignant notre réseau :</p>
+    <ul>
+        <li><strong>Accès à un Large Réseau de Contacts :</strong> Nous disposons d'un réseau bien établi qui vous permettra d'accéder à diverses et stimulantes opportunités professionnelles alignées sur vos aspirations professionnelles.</li>
+        <li><strong>Support Personnalisé :</strong> Des consultations spécifiques à la préparation aux entretiens, je serai à vos côtés à chaque étape du processus, en m'assurant que vous soyez parfaitement préparé pour toute opportunité qui pourrait survenir.</li>
+        <li><strong>Conseil Financier Exclusif :</strong> Vous recevrez des conseils personnalisés de nos conseillers financiers privés afin que vous puissiez gérer vos revenus de manière efficace et explorer de nouvelles stratégies d'investissement.</li>
+        <li><strong>Gestion Complète de Votre Déménagement en Suisse :</strong> Nous nous occuperons de toutes les démarches administratives nécessaires, du permis de travail aux assurances, facilitant votre adaptation à un nouvel environnement.</li>
+    </ul>
+
+    <p><strong>Action requise :</strong></p>
+    <p>Vous trouverez en pièce jointe à ce courriel un document PDF. Il est crucial que vous l'imprimiez, le complétiez à la main et nous le renvoyiez le plus rapidement possible, par une photo claire ou un scan. Cette étape est essentielle pour avancer rapidement et avec précision dans votre processus de candidature.</p>
+
+    <p>Avec votre profil de candidat(e) actif, nous vous présenterons de manière efficace à des employeurs potentiels, tout en respectant votre vie privée. Avant de procéder à toute offre, nous confirmerons les détails avec vous via WhatsApp et vous donnerons 24 heures pour confirmer votre intérêt.</p>
+
+    <p>Je suis ici pour vous soutenir à chaque étape de votre chemin vers le succès professionnel en Suisse. Si vous avez des questions ou besoin de plus d'informations, n'hésitez pas à me contacter.</p>
+
+    <p>J'attends avec impatience de travailler avec vous et de vous aider à atteindre vos objectifs professionnels. Veuillez envoyer le formulaire rempli dès que possible pour commencer ensemble ce voyage excitant.</p>
+
+    <p>Cordialement,</p>
 
 <p><strong>Support Team</strong>, - {{name3}}<br>
 <strong>{{name2}}</strong><br>
